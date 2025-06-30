@@ -10,3 +10,4 @@ PORT=5000
 flask run
 docker build -t akiya-crisis-backend .
 docker run -d -p 5000:5000 --env-file .env akiya-crisis-backend
+https://www.akiyajapan.com/demo/search/list/?buy=true&order_by=date_desc
