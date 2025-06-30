@@ -1,0 +1,26 @@
+{
+  "name": "Akiya AI Solution - Reviving Abandoned Homes",
+  "short_name": "AkiyaAI",
+  "description": "An AI/ML-powered platform that helps identify, analyze, and revitalize abandoned properties across Japan using smart decision-making tools.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait",
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/akiya-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/akiya-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
